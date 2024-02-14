@@ -29,8 +29,7 @@
     <li>CSS</li>
     <li>JAVASCRIPT</li>
   </ul>
-  <p>You can reach to Website, when you are click <a href="https://shoppingchartt.netlify.app/">HERE</a>.</p>
-
+ 
 </body>
 </html>
 
